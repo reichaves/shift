@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 # Mudança de teste
-=======
-# MudanÃ§a de teste
->>>>>>> be5944cc58c994f959225f58890053ab8936596b
